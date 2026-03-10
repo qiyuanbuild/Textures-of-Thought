@@ -127,10 +127,8 @@ class Particle {
   }
 }
 
-// save image
+// ---------------- save ----------------
 
-function keyPressed() {
-  if (key === "s") {
-    saveCanvas("thought_topographies", "png");
-  }
+function mousePressed(){
+  saveCanvas("thought-topography-"+frameCount,"png");
 }
