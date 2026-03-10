@@ -8,4 +8,7 @@ Generative digital artwork created with p5.js, using algorithmic particle system
 I approach design as a way of thinking and structuring complex ideas. My work often begins with abstract processes—such as thought, perception, and information—and translates them into visual systems that reveal underlying patterns.
 In my practice, individual movements generate traces that gradually accumulate into textures and structures. Each trace carries a direction, reflecting the intentional path of thought, yet it is also influenced by randomness introduced by surrounding conditions. Through this interaction between direction and uncertainty, complex visual fields begin to emerge.
 I am particularly interested in the moment when structure becomes visible. At certain levels of accumulation, patterns appear and clarity emerges. However, as density continues to increase, visual noise begins to dominate, and the original structure becomes obscured. This dynamic mirrors the experience of thinking itself—where excessive complexity and overthinking can dissolve clarity rather than deepen understanding.
-Through generative visual systems, my work explores how perception, information, and aesthetic structure interact in the process of making sense of complexity.
+Through generative visual systems, my work explores how perception, information, and aesthetic structure interact in the process of making sense of complexity.  
+
+*Play with*
+https://qiyuanbuild.github.io/Textures-of-Thought/
